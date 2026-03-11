@@ -17,10 +17,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
 
 
-
-
 ## Experiment:
 
+<img width="508" height="285" alt="Screenshot 2026-03-11 082546" src="https://github.com/user-attachments/assets/76c32da5-b17a-402a-b768-31a6a1d1ca76" />
 
 ## Program
 ```
@@ -59,7 +58,6 @@ print("--------------------------------------------------------------")
 
 ## Output :
 <img width="719" height="565" alt="Screenshot 2026-03-10 090754" src="https://github.com/user-attachments/assets/741ccc1d-ff82-4c76-b64c-160581a86952" />
-
 
 ## Result : 
 Thus, the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
